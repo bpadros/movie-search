@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movie-search/static/css/main.a0002239.css",
+    "main.js": "/movie-search/static/js/main.e493c9b8.js",
+    "static/js/787.d95c25a6.chunk.js": "/movie-search/static/js/787.d95c25a6.chunk.js",
+    "static/media/pexels-tima-miroshnichenko-7991229.jpg": "/movie-search/static/media/pexels-tima-miroshnichenko-7991229.9f1cbd1a26a042b1b1c8.jpg",
+    "index.html": "/movie-search/index.html",
+    "main.a0002239.css.map": "/movie-search/static/css/main.a0002239.css.map",
+    "main.e493c9b8.js.map": "/movie-search/static/js/main.e493c9b8.js.map",
+    "787.d95c25a6.chunk.js.map": "/movie-search/static/js/787.d95c25a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0002239.css",
+    "static/js/main.e493c9b8.js"
+  ]
+}
